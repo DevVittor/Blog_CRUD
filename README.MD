@@ -298,4 +298,4 @@ Instruções de como testar as rotas principais da API.
 
 ## License MIT
 
-[License]("")
+[License](https://github.com/DevVittor/Blog_CRUD/blob/branch/LICENSE)
