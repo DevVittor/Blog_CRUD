@@ -53,6 +53,8 @@ yarn install
 
 ## Lista de Pacotes
 
+**dependencies:**
+
 ```bash
     "bcryptjs": "^3.0.2",
     "body-parser": "^2.2.0",
@@ -64,9 +66,15 @@ yarn install
     "express-rate-limit": "^7.5.0",
     "helmet": "^8.1.0",
     "jsonwebtoken": "^9.0.2",
+    "mongodb": "6.15.0",
     "mongoose": "^8.13.0",
     "morgan": "^1.10.0",
     "zod": "^3.24.2"
+```
+
+**devDependencies:**
+
+```bash
     "prettier": "3.5.3"
 ```
 

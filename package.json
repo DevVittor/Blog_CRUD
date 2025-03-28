@@ -1,6 +1,6 @@
 {
   "name": "blog",
-  "description": "Apenas um blog bem simples.",
+  "description": "Este é um projeto de API para um blog desenvolvido com node.js, express.js e mongodb. A API permite que os usuários criem,leiam, atualizem e excluam post do blog, bem como gerenciem suas contas de usuário. A aplicação também oferece funcionalidades de autentificar e autorização de usuários.",
   "version": "1.0.0",
   "main": "./src/http/server.js",
   "license": "MIT",
@@ -20,6 +20,7 @@
     "express-rate-limit": "^7.5.0",
     "helmet": "^8.1.0",
     "jsonwebtoken": "^9.0.2",
+    "mongodb": "6.15.0",
     "mongoose": "^8.13.0",
     "morgan": "^1.10.0",
     "zod": "^3.24.2"
